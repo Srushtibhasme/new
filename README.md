@@ -86,5 +86,3 @@ In summary, to troubleshoot common Linux server issues:
 7. Update the system
 8. Restart Services
 
-   By following these steps, you can diagnose and resolve common Linux server issues, and keep your system running smoothly.
-
